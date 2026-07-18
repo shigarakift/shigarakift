@@ -83,14 +83,14 @@
   <img width="12" />
 
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/bagas-alfattah-r-162975320/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   </a>
 
   <img width="12" />
 
   <!-- Email (Gmail) -->
-  <a href="mailto:your.email@example.com">
+  <a href="bagasfattah15@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail" height="40" alt="Email" />
   </a>
 </div>
